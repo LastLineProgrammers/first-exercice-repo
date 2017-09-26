@@ -1,8 +1,7 @@
 First exercice
-<<<<<<< HEAD
+
 New changes from the master
-=======
 
 Change in my ne branch
  new changes liulin Programmers
->>>>>>> liulinProgrammers
+
